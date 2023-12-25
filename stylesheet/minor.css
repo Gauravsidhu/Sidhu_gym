@@ -1,0 +1,518 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+body {
+  overflow-x: hidden;
+}
+
+#header {
+  background-color: grey;
+}
+
+a.navbar-brand {
+  margin-left: 1%;
+  font-size: 25px;
+  font-weight: 700;
+  /* color: white; */
+}
+
+li.nav-item {
+  margin-left: 6%;
+
+}
+
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+  margin-left: 23%;
+
+}
+
+a.nav-link.active {
+  font-size: 20px;
+  font-weight: 500;
+
+}
+
+.navbar-btn {
+  margin-right: 18%;
+  margin-top: 3px;
+}
+
+.index-img {
+  margin-left: -1%;
+  margin-top: 0px;
+}
+
+.index-content {
+  margin-left: 8%;
+  margin-top: 11px;
+}
+
+h1.fitness {
+  font-size: 30px;
+  font-weight: 500;
+
+}
+
+p.thriving {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+
+.index-btn {
+  margin-top: 20px;
+  padding-bottom: 18px;
+}
+
+.modal-header {
+  background: black;
+}
+
+.modal-body {
+  background: black;
+}
+
+.modal-footer {
+  background: black;
+}
+
+h1#exampleModalLabel {
+  color: white;
+}
+
+h6.membership-plans {
+  color: white;
+  padding-top: 10px;
+}
+
+p.phone {
+  font-size: 22px;
+  margin-left: 25%;
+  margin-top: 6%;
+  font-weight: 500;
+  color: white;
+}
+
+p.\31 23 {
+  font-size: 19px;
+  margin-left: 25%;
+  font-weight: 500;
+  margin-top: -7px;
+  color: white;
+}
+
+#footer-color {
+  background-color: black;
+}
+
+h4.subscribe {
+  font-size: 25px;
+  font-weight: 600;
+
+}
+
+p.sign {
+  font-size: 20px;
+  font-weight: 400;
+
+}
+
+.footer-subscribe {
+  margin-left: 16%;
+  margin-top: 11px;
+}
+
+input#email-input {
+  margin-top: 3%;
+  width: 59%;
+}
+
+button#frm-btn {
+  margin-top: -97px;
+  margin-left: 55%;
+}
+
+form#email-form {
+  margin-left: 16%;
+}
+
+h4.©Copyright {
+  font-size: 19px;
+  margin-left: 13%;
+  margin-top: 1%;
+}
+
+a.term {
+  text-decoration: none;
+  color: black;
+}
+
+a.term {
+  text-decoration: none;
+  display: inline-block;
+
+}
+
+a.privacy {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  margin-left: 2%;
+}
+
+.footer-icons {
+  width: 20px;
+}
+
+.facebook-icon {
+  width: 20px;
+}
+
+.twitter-icon {
+  width: 20px;
+}
+
+a.btn.btn-dark {
+  border-radius: 27px;
+  margin-left: 2%;
+}
+
+.footer-images {
+  margin-top: 2%;
+  margin-left: 15%;
+}
+
+.footer-anchors {
+  margin-left: 13%;
+  margin-top: 2%;
+}
+
+img#about-img {
+  margin-left: 0%;
+  margin-top: 5%;
+  width: 100%;
+}
+
+
+h3.story {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.about-2 {
+  margin-top: 10%;
+  margin-left: 4%;
+}
+
+p.about-story {
+  font-size: 17px;
+  margin-top: 2%;
+  font-family: none;
+}
+
+h4.lettie {
+  margin-top: 3%;
+}
+
+p.ceo {
+  font-size: 17px;
+  color: orange;
+  margin-top: 1%;
+}
+
+.video-btn {
+  margin-left: 40%;
+  margin-top: -39%;
+  padding-bottom: 17%;
+}
+
+h2.\39 8 {
+  font-size: 80px;
+  margin-left: 16%;
+  margin-top: 3%;
+}
+
+h3.\39 8 {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.about-3 {
+  margin-left: 36%;
+  margin-top: 12%;
+}
+
+p.programs {
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: -11%;
+}
+
+p.members {
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: -1%;
+}
+
+p.coaches {
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: -7%;
+}
+
+h3.best {
+  font-size: 27px;
+  font-weight: 500;
+}
+
+.about-4 {
+  margin-left: 12%;
+  margin-top: 3%;
+  padding-top: 3%;
+}
+
+p.lorem {
+  font-size: 17px;
+  margin-top: 2%;
+  font-family: none;
+}
+
+p.etiam {
+  font-size: 17px;
+  margin-top: 1%;
+  font-family: none;
+}
+
+.award {
+  margin-left: 2%;
+  margin-top: 4%;
+  padding-bottom: 9%;
+}
+
+h3.training {
+  font-size: 27px;
+  font-weight: 500;
+}
+
+.training-content {
+  margin-left: 19%;
+  margin-top: 5%;
+}
+
+.training-btn {
+  margin-top: 4%;
+}
+
+p.gimply {
+  font-size: 17px;
+  margin-top: 3%;
+  font-family: none;
+}
+
+.form-label {
+  color: white;
+}
+
+div#training-back {
+  background: #f1e1cb;
+}
+
+.expert {
+  text-align: center;
+  margin-top: 2%;
+  padding-top: 2%;
+}
+
+.card-text {
+  color: rgb(226, 66, 66);
+}
+
+.card-body {
+  text-align: center;
+}
+
+.about-card-1 {
+  margin-left: 22%;
+  padding-top: 3%;
+}
+
+.card {
+  width: 70%;
+}
+
+footer#footer {
+  padding-top: 3%;
+}
+
+.classes-1 {
+  /* margin-left: 40%; */
+  padding-top: 2%;
+  text-align: center;
+}
+
+p.the {
+  font-size: 18px;
+  font-weight: 400;
+  color: #aaaaaa;
+  /* margin-left: -18%; */
+  padding-top: 1%;
+}
+
+input#firstname {
+  width: 30%;
+  margin-left: 18%;
+  margin-top: 3%;
+}
+
+input#email {
+  width: 30%;
+  margin-left: 18%;
+  margin-top: 3%;
+}
+
+input#lastname {
+  width: 30%;
+  margin-left: 52%;
+  margin-top: -38px;
+}
+
+input#mobile {
+  width: 30%;
+  margin-left: 52%;
+  margin-top: -38px;
+}
+
+.form-btn {
+  margin-left: 1%;
+  margin-top: 0%;
+}
+
+a.btn.btn-warning {
+  width: 78%;
+}
+
+.unlimited-classes {
+  text-align: center;
+  padding-top: 5%;
+}
+
+.about-card-2 {
+  margin-left: 15%;
+  padding-top: 7%;
+}
+
+.class-submit-btn {
+  margin-left: 18%;
+  padding-top: 3%;
+}
+
+h2.blog {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 1%;
+}
+
+.gallery-btns {
+  margin-left: 40%;
+  margin-top: 2%;
+}
+
+.gallery-btns {
+  margin-left: 0%;
+  margin-top: 2%;
+}
+
+a.btn.btn-secondary {
+  margin-left: 4%;
+}
+
+img.image-fluid {
+  width: 84.6%;
+
+}
+
+.gallery-1 {
+  margin-left: 12%;
+  padding-top: 15%;
+}
+
+iframe.embed-responsive-item {
+  width: 100%;
+  height: 350px;
+}
+
+.contact-map {
+  margin-top: 1%;
+}
+
+.contact-1 {
+  margin-left: 9%;
+  padding-top: 5%;
+}
+
+img#placeholder {
+  width: 20px;
+}
+
+.contact-btn {
+  padding-top: 2%;
+}
+
+h4.location {
+  font-size: 21px;
+  color: #aaaaaa;
+  /* margin-top: -8%;
+  margin-left: 11%; */
+}
+
+.contact-content-1 {
+  margin-top: -7%;
+  margin-left: 11%;
+}
+
+.contact-2 {
+  margin-top: 10%;
+  margin-left: 9%;
+}
+
+.contact-3 {
+  margin-top: 10%;
+  margin-left: 9%;
+}
+
+.contact-content-1 {
+  margin-top: -9%;
+  margin-left: 16%;
+}
+
+.contact-form {
+  margin-left: 23%;
+  padding-top: 5%;
+}
+
+input#yourname {
+  width: 34%;
+  margin-left: 15%;
+  margin-top: 2%;
+}
+
+
+
+input#youremail {
+  width: 34%;
+  margin-left: 54%;
+  margin-top: -38px;
+}
+
+.contact-textarea {
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+
+.contacts-btn {
+  margin-left: 48%;
+  margin-top: 3%;
+}
